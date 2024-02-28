@@ -1,0 +1,8 @@
+organization=myapp-org24
+projectKey=myapp-org24_javatestapp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53075
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=myapp-org24_javatestapp&branch=master
+ceTaskId=AY3ukG9fKNWWB6q_9YUH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY3ukG9fKNWWB6q_9YUH
