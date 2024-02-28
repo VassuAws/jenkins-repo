@@ -1,0 +1,8 @@
+organization=myorg2024
+projectKey=myorg2024_mytestapp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53075
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=myorg2024_mytestapp&branch=master
+ceTaskId=AY3vaHSUuW7RsUtnhgJd
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY3vaHSUuW7RsUtnhgJd
